@@ -46,5 +46,4 @@ I am actively working on the following courses and will update this section with
 
 ## Contact Me 📬
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
 * **Email:** your.email@example.com
